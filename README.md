@@ -10,20 +10,20 @@
   * linkedin: https://www.linkedin.com/in/abdullah-khallaf-5ab758172/
 ___
 
-## Languages I Use:
+### Languages I Use:
   - HTML 
   - CSS
   - JavaScript
   
- ## Framwork I Use:
+ ### Framwork I Use:
   - Vue.js
   
- ## Technologies I Worked With:
+ ###Technologies I Worked With:
   - JQuery
   - GitHub
   - Visual Studio code
   
-  ## Other Skills:
-    -UI Design 
+  ### Other Skills:
+   - UI/UX Design 
 
 
