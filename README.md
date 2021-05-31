@@ -18,7 +18,7 @@ ___
  ### Framwork I Use:
   - Vue.js
   
- ###Technologies I Worked With:
+ ### Technologies I Worked With:
   - JQuery
   - GitHub
   - Visual Studio code
