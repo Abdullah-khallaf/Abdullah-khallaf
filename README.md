@@ -4,8 +4,26 @@
 * 🎓 Computer Science & Engineering undergraduate
 * 🔭 I’m currently working on a vue project
 * 🌱 I’m currently practicing on vue and JS 
-* 📫 How to reach me: Gmail: abdullahkhallaf74@gmail.com
-                      twitter: twitter.com/Abdullahkhalla5
-                      linkedin: linkedin.com/Abdullahkhalla5
+* 📫 How to reach me: 
+  * Gmail: abdullahkhallaf74@gmail.com
+  * twitter: https://twitter.com/Abdullahkhalla5
+  * linkedin: https://www.linkedin.com/in/abdullah-khallaf-5ab758172/
+___
+
+## Languages I Use:
+  - HTML 
+  - CSS
+  - JavaScript
+  
+ ## Framwork I Use:
+  - Vue.js
+  
+ ## Technologies I Worked With:
+  - JQuery
+  - GitHub
+  - Visual Studio code
+  
+  ## Other Skills:
+    -UI Design 
 
 
