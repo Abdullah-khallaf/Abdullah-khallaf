@@ -5,7 +5,7 @@
 * 🔭 I’m currently working on a vue project
 * 🌱 I’m currently practicing on vue and JS 
 * 📫 How to reach me: 
-  * Gmail: abdullahkhallaf74@gmail.com
+  * Gmail: abdullah.khallaf.work@gmail.com
   * twitter: https://twitter.com/Abdullahkhalla5
   * linkedin: https://www.linkedin.com/in/abdullah-khallaf-5ab758172/
 ___
