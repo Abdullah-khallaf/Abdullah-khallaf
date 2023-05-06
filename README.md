@@ -2,7 +2,7 @@
 
 
 * 🎓 Computer Science & Engineering undergraduate
-* 🔭 I’m currently working on a vue project
+* 🔭 I’m currently working on a E-commerce with Vuejs
 * 🌱 I’m currently practicing on vue and JS 
 * 📫 How to reach me: 
   * Gmail: abdullah.khallaf.work@gmail.com
