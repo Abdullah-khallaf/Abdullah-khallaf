@@ -2,8 +2,8 @@
 
 
 * 🎓 Computer Science & Engineering undergraduate
-* 🔭 I’m currently working on a E-commerce with Vuejs
-* 🌱 I’m currently practicing on vue and JS 
+* 🔭 I’m currently working on a E-commerce with VUEJS
+* 🌱 I’m currently practicing on VUEJS
 * 📫 How to reach me: 
   * Gmail: abdullah.khallaf.work@gmail.com
   * twitter: https://twitter.com/Abdullahkhalla5
