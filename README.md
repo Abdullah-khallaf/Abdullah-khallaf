@@ -14,6 +14,7 @@ ___
   - HTML 
   - CSS
   - JavaScript
+  - SASS
   
  ### Framwork I Use:
   - Vue.js
@@ -22,6 +23,8 @@ ___
   - JQuery
   - GitHub
   - Visual Studio code
+  - Vite
+  - WordPress
   
   ### Other Skills:
    - UI/UX Design 
