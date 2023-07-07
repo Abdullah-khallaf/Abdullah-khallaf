@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Large scale projects using Vue**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdullah-khallaf?tab=repositories](https://github.com/Abdullah-khallaf?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Abdullah-khallaf?tab=repositories)
 
 - 💬 Ask me about **JS, CSS, HTML, VUEJS**
 
 - 📫 How to reach me **abdullah.khallaf.work@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YK4hSR5-kPHDPGpWgzMOD74qdhBQrDW9/view?usp=sharing](https://drive.google.com/file/d/1YK4hSR5-kPHDPGpWgzMOD74qdhBQrDW9/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YK4hSR5-kPHDPGpWgzMOD74qdhBQrDW9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
