@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khallaf</h1>
-<h3 align="center">A passionate frontend developer and CSE undergrade</h3>
+<h3 align="center">A passionate frontend developer and CSE undergraduate </h3>
 
-- 🔭 I’m currently working on **A project using VueJS**
+- 🔭 I’m currently working on **The UI Of A Fullstack Task Manager App Using Vue-JS**
 
-- 🌱 I’m currently learning **Vuex, Nuxt, Node, MongoDB, Express, TS**
-
-- 👯 I’m looking to collaborate on **Large scale projects using Vue**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Abdullah-khallaf?tab=repositories)
-
-- 💬 Ask me about **JS, CSS, HTML, VUEJS**
+- 🌱 I’m currently Expanding my knowledge in **Fullstack Using JS**
 
 - 📫 How to reach me **abdullah.khallaf.work@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YK4hSR5-kPHDPGpWgzMOD74qdhBQrDW9/view?usp=sharing)
+- 📄 My [Resume](https://drive.google.com/file/d/1YK4hSR5-kPHDPGpWgzMOD74qdhBQrDW9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
