@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khallaf</h1>
 <h3 align="center">A passionate frontend developer and CSE undergraduate </h3>
 
-- 🔭 I’m currently working on ** E-commerce Real-estate website** using **Vue Js**
+- 🔭 I’m currently working on **E-commerce Real-estate website** using **Vue Js**
 
 - 🌱 I’m currently Expanding my knowledge in **Fullstack Using JS**
 
